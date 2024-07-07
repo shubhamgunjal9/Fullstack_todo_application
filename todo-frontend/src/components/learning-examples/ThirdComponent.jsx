@@ -11,4 +11,14 @@ class ThirdComponent extends Component{
       )
     }
 }
+
+export class FifthComponent extends Component {
+    render(){
+        return(
+            <>
+                <h1>Fifth class component</h1>
+            </>
+        )
+    }
+}
 export default ThirdComponent;  
